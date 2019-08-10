@@ -1,0 +1,5 @@
+# Deno cache directory on Windows, possibly a bug
+/Users/
+
+# Node dependencies
+node_modules/
