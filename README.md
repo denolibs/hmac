@@ -1,4 +1,4 @@
-# hmac
+# hmac [![Build Status](https://travis-ci.org/denolibs/hmac.svg?branch=master)](https://travis-ci.org/denolibs/hmac)
 
 This is a simple HMAC module that is designed to be consumed by other modules.
 Eg. This HMAC module, combined with an MD5 module, could be used to make a HMAC-MD5 module.
